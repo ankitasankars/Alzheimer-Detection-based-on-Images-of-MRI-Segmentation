@@ -4,3 +4,17 @@
 <h4 align="center"> Alzheimer's disease is a progressive neurologic disorder that causes the brain to shrink (atrophy) and brain cells to die. It is the most common cause of dementia which is a continuous decline in thinking, behavioral and social skills that affects a person's ability to function independently.
 In its early stages, memory loss is mild, but with late-stage Alzheimer’s, individuals lose the ability to carry on a conversation and respond to their environment.<h4>
 </p>
+
+## Dataset used for this project:
+	
+<p> I have chosen the [Alzheimer’s Dataset](https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images) which contains data collected from various websites with each and every labels verified. The main goal is to build an end-to-end model to predict the stage of Alzheimer’s from MRI images. </p>
+	
+## :question: How to perform Sentimental Analysis on your twitter data?
+
+Basically involves 5 steps:
+
+1. Gathering your relevant Twitter data.
+2. Cleaning your data using pre-processing techniques.
+3. Creating a sentiment analysis machine learning model.
+4. Analyzing your Twitter data using your sentiment analysis model.
+5. Visualizing the results of your Twitter sentiment analysis.
