@@ -17,5 +17,5 @@ The data consists of Magnetic Resonance Imaging (MRI) images presented in the tr
 - Very Mild Demented (3)
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/64346030/136690060-e8699831-f90c-4e49-b385-2537e07fcb40.png" width=80%/>
+	<img src="https://user-images.githubusercontent.com/64346030/136690060-e8699831-f90c-4e49-b385-2537e07fcb40.png">
 	</p>
