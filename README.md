@@ -11,10 +11,10 @@ I have chosen the [Alzheimer’s Dataset](https://www.kaggle.com/tourist55/alzhe
 
 The data consists of Magnetic Resonance Imaging (MRI) images presented in the training and test set. The images are classified into four different classes according to the stage of the disease:
 	
-- Mild Demented (0)
-- Moderate Demented (1)
-- Non Demented (2)
-- Very Mild Demented (3)
+- Mild Demented
+- Moderate Demented
+- Non Demented
+- Very Mild Demented
 
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/64346030/136690060-e8699831-f90c-4e49-b385-2537e07fcb40.png">
